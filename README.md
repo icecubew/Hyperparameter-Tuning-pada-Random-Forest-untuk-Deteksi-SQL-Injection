@@ -3,10 +3,18 @@ Proyek ini membandingkan performa deteksi SQL Injection menggunakan algoritma Ra
 
 Dataset Source : https://www.kaggle.com/code/princeroy15/sql-injection-detection-by-machine-learning/input
 
-Sumber Tambahan
-
+Sumber Tambahan:
 https://hrcak.srce.hr/file/367636
 https://www.irjet.net/archives/V8/i7/IRJET-V8I7515.pdf
 https://www.kaggle.com/datasets/siddharthkumar25/malicious-and-benign-urls
 https://www.matec-conferences.org/articles/matecconf/pdf/2018/32/matecconf_smima2018_01004.pdf
 https://www.analyticsvidhya.com/blog/2020/05/what-is-tokenization-%20%20%20%20nlp/#:~:text=Tokenization%20is%20a%20way%20of,n%2Dgram%20characters
+
+File ini berisi:
+1. Input dataset dan library
+2. EDA (Analisis Data)
+3. Preprocessing dataset
+4. Uji coba model
+5. Evaluasi model menggunakan Confussion Matrix dan Cross Validation
+
+Feel free to use and dont forget to link my Github as your reference! 
